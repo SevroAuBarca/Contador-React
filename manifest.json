@@ -1,0 +1,26 @@
+{
+  "name": "Contador React",
+  "short_name": "Count R",
+  "description": "Es un contador hecho en react",
+  "background_color": "#333333",
+  "theme_color": "#333333",
+  "start_url": "./",
+  "scope": "./",
+  "lang": "es-MX",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/manifest-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/manifest-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
